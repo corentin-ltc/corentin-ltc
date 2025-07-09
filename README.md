@@ -1,6 +1,6 @@
 # Hi, I’m Corentin 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=false&vCenter=true&width=435&lines=42+Student+%7C+Full-Stack+Developer;Ex-Refrigeration+Engineer+%7C+Tech+Builder;C%2B%2B%2C+C%23%2C+.NET%2C+Python+%7C+React+Native+Lover)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=false&vCenter=true&width=435&lines=42+Student+%7C+Full-Stack+Developer;Refrigeration+Engineer+%7C+Tech+Builder;C%2B%2B%2C+C%23%2C+.NET%2C+Python+%7C+React+Native+Lover)
 
 ## 🧠 About Me
 
