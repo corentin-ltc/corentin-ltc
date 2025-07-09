@@ -36,7 +36,7 @@
 
 ## 📌 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corentin-ltc&theme=dark&layout=compact&hide_border=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username="corentin-ltc"&theme=dark&layout=compact&hide_border=false)
 
 ---
 
