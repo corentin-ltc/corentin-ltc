@@ -4,7 +4,8 @@
 
 ## 🧠 About Me
 
-- Currently studying at **42 Paris**
+- Currently working as Full Stack Developer at **CLAUGER**
+- Student at **42 Paris**
 - Transitioned from **industrial refrigeration** to **software development**
 - Passionate about building tools & solving real-world problems
 - Currently working with **C# / .NET / Razor / OpenAI API**
